@@ -1,6 +1,6 @@
 {
   "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
-  "name": "claude-equity-research",
+  "name": "claude-equity-research-marketplace",
   "description": "Professional equity research and financial analysis plugins for Claude Code",
   "owner": {
     "name": "quant-sentiment-ai",
@@ -8,7 +8,7 @@
   },
   "plugins": [
     {
-      "name": "claude-equity-research",
+      "name": "trading-ideas",
       "source": "./",
       "description": "Institutional-grade equity research reports via /trading-ideas command. Analyzes company financials, technical indicators, market positioning, insider activity, and provides BUY/SELL/HOLD recommendations with price targets.",
       "version": "1.0.0",

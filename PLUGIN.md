@@ -44,7 +44,7 @@ The **Claude Equity Research** plugin brings institutional-grade equity analysis
 ```bash
 # Add marketplace and install in one flow
 /plugin marketplace add quant-sentiment-ai/claude-equity-research
-/plugin install claude-equity-research@claude-equity-research
+/plugin install trading-ideas@claude-equity-research-marketplace
 ```
 
 ### Verify Installation
@@ -238,8 +238,8 @@ To automatically install this plugin for all team members who trust your reposit
   ],
   "extraKnownPlugins": [
     {
-      "name": "claude-equity-research",
-      "marketplace": "claude-equity-research"
+      "name": "trading-ideas",
+      "marketplace": "claude-equity-research-marketplace"
     }
   ]
 }
@@ -259,7 +259,7 @@ When team members trust the repository folder, Claude Code will automatically pr
 1. Restart Claude Code (recommended)
 2. Verify installation: `/plugin marketplace list`
 3. Check plugin is enabled: `/plugin`
-4. Reinstall: `/plugin uninstall claude-equity-research@claude-equity-research` then `/plugin install claude-equity-research@claude-equity-research`
+4. Reinstall: `/plugin uninstall trading-ideas@claude-equity-research-marketplace` then `/plugin install trading-ideas@claude-equity-research-marketplace`
 
 ### Limited Data for Small-Cap Stocks
 
@@ -307,22 +307,22 @@ When team members trust the repository folder, Claude Code will automatically pr
 
 ### Enable/Disable Plugin
 ```bash
-/plugin enable claude-equity-research@claude-equity-research
-/plugin disable claude-equity-research@claude-equity-research
+/plugin enable trading-ideas@claude-equity-research-marketplace
+/plugin disable trading-ideas@claude-equity-research-marketplace
 ```
 
 ### Uninstall Plugin
 ```bash
-/plugin uninstall claude-equity-research@claude-equity-research
+/plugin uninstall trading-ideas@claude-equity-research-marketplace
 ```
 
 ### Update Plugin
 ```bash
 # Uninstall old version
-/plugin uninstall claude-equity-research@claude-equity-research
+/plugin uninstall trading-ideas@claude-equity-research-marketplace
 
 # Reinstall latest version
-/plugin install claude-equity-research@claude-equity-research
+/plugin install trading-ideas@claude-equity-research-marketplace
 ```
 
 ---
