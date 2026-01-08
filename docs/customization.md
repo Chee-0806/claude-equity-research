@@ -428,7 +428,7 @@ time (echo "/trading-ideas AAPL" | claude-code)
 ### Getting Help
 - Review [installation guide](installation.md) for setup issues
 - Check [methodology](methodology.md) for analysis framework
-- Submit issues to [GitHub repository](https://github.com/quant-sentiment-ai/claude-equity-research/issues)
+- Submit issues to [GitHub repository](https://github.com/Chee-0806/claude-equity-research/issues)
 - Join community discussions for best practices sharing
 
 This customization guide enables you to tailor Claude Equity Research to your specific investment process while maintaining professional analysis standards.

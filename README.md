@@ -51,7 +51,7 @@ Professional equity research and trading analysis powered by Claude AI, deliveri
 **Quick Install - Interactive Menu:**
 ```bash
 # Step 1: Add the marketplace
-/plugin marketplace add quant-sentiment-ai/claude-equity-research
+/plugin marketplace add Chee-0806/claude-equity-research
 
 # Step 2: Open the plugin menu
 /plugin
@@ -61,7 +61,7 @@ Professional equity research and trading analysis powered by Claude AI, deliveri
 
 **Alternative - Direct Install:**
 ```bash
-/plugin marketplace add quant-sentiment-ai/claude-equity-research
+/plugin marketplace add Chee-0806/claude-equity-research
 /plugin install trading-ideas@claude-equity-research-marketplace
 ```
 
@@ -88,7 +88,7 @@ For comprehensive plugin documentation, see [PLUGIN.md](PLUGIN.md).
 1. **Install the /trading-ideas command** (system-wide):
 ```bash
 mkdir -p ~/.claude/commands
-curl -o ~/.claude/commands/trading-ideas.md https://raw.githubusercontent.com/quant-sentiment-ai/claude-equity-research/main/commands/trading-ideas.md
+curl -o ~/.claude/commands/trading-ideas.md https://raw.githubusercontent.com/Chee-0806/claude-equity-research/main/commands/trading-ideas.md
 ```
 
 2. **Basic usage**:
@@ -105,7 +105,7 @@ curl -o ~/.claude/commands/trading-ideas.md https://raw.githubusercontent.com/qu
 
 1. **Clone the repository**:
 ```bash
-git clone https://github.com/quant-sentiment-ai/claude-equity-research.git
+git clone https://github.com/Chee-0806/claude-equity-research.git
 cd claude-equity-research
 ```
 
@@ -264,7 +264,7 @@ We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.
 ### Code Contributions
 ```bash
 # Fork the repository
-git fork https://github.com/quant-sentiment-ai/claude-equity-research
+git fork https://github.com/Chee-0806/claude-equity-research
 
 # Create feature branch
 git checkout -b feature/your-enhancement
@@ -279,8 +279,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Support & Community
 
 - 📖 [Documentation](docs/)
-- 🐛 [Report Issues](https://github.com/quant-sentiment-ai/claude-equity-research/issues)
-- 💬 [Discussions](https://github.com/quant-sentiment-ai/claude-equity-research/discussions)
+- 🐛 [Report Issues](https://github.com/Chee-0806/claude-equity-research/issues)
+- 💬 [Discussions](https://github.com/Chee-0806/claude-equity-research/discussions)
 - 🔄 [Changelog](CHANGELOG.md)
 
 ## Acknowledgments

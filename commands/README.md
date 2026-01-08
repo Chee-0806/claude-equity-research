@@ -6,13 +6,13 @@ This directory contains the core `/trading-ideas` command for Claude Code integr
 
 ### Quick Installation (Recommended)
 ```bash
-curl -o ~/.claude/commands/trading-ideas.md https://raw.githubusercontent.com/quant-sentiment-ai/claude-equity-research/main/commands/trading-ideas.md
+curl -o ~/.claude/commands/trading-ideas.md https://raw.githubusercontent.com/Chee-0806/claude-equity-research/main/commands/trading-ideas.md
 ```
 
 ### Manual Installation
 ```bash
 # Clone the repository
-git clone https://github.com/quant-sentiment-ai/claude-equity-research.git
+git clone https://github.com/Chee-0806/claude-equity-research.git
 
 # Copy command to Claude Code
 cp claude-equity-research/commands/trading-ideas.md ~/.claude/commands/
@@ -88,7 +88,7 @@ To update the command with latest improvements:
 
 ```bash
 # Download latest version
-curl -o ~/.claude/commands/trading-ideas.md https://raw.githubusercontent.com/quant-sentiment-ai/claude-equity-research/main/commands/trading-ideas.md
+curl -o ~/.claude/commands/trading-ideas.md https://raw.githubusercontent.com/Chee-0806/claude-equity-research/main/commands/trading-ideas.md
 
 # Verify update
 head -10 ~/.claude/commands/trading-ideas.md
@@ -97,8 +97,8 @@ head -10 ~/.claude/commands/trading-ideas.md
 ## Support
 
 For issues or feature requests:
-- [GitHub Issues](https://github.com/quant-sentiment-ai/claude-equity-research/issues)
-- [Discussions](https://github.com/quant-sentiment-ai/claude-equity-research/discussions)
+- [GitHub Issues](https://github.com/Chee-0806/claude-equity-research/issues)
+- [Discussions](https://github.com/Chee-0806/claude-equity-research/discussions)
 - [Documentation](../docs/)
 
 ---

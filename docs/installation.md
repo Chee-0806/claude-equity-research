@@ -7,7 +7,7 @@ Complete setup instructions for Claude Equity Research integration with Claude C
 ### Option 1: Direct Download (Recommended)
 ```bash
 # Install the trading-ideas command system-wide
-curl -o ~/.claude/commands/trading-ideas.md https://raw.githubusercontent.com/quant-sentiment-ai/claude-equity-research/main/commands/trading-ideas.md
+curl -o ~/.claude/commands/trading-ideas.md https://raw.githubusercontent.com/Chee-0806/claude-equity-research/main/commands/trading-ideas.md
 
 # Verify installation
 ls ~/.claude/commands/trading-ideas.md
@@ -19,7 +19,7 @@ ls ~/.claude/commands/trading-ideas.md
 ### Option 2: Repository Clone
 ```bash
 # Clone the full repository
-git clone https://github.com/quant-sentiment-ai/claude-equity-research.git
+git clone https://github.com/Chee-0806/claude-equity-research.git
 cd claude-equity-research
 
 # Copy command to Claude Code
@@ -125,7 +125,7 @@ vim ~/.claude/equity-research/config.json
 ls -la ~/.claude/commands/trading-ideas.md
 
 # If missing, reinstall
-curl -o ~/.claude/commands/trading-ideas.md https://raw.githubusercontent.com/quant-sentiment-ai/claude-equity-research/main/commands/trading-ideas.md
+curl -o ~/.claude/commands/trading-ideas.md https://raw.githubusercontent.com/Chee-0806/claude-equity-research/main/commands/trading-ideas.md
 
 # Check file permissions
 chmod 644 ~/.claude/commands/trading-ideas.md
@@ -160,7 +160,7 @@ claude-code --version
 
 ```bash
 # Restore default command
-curl -o ~/.claude/commands/trading-ideas.md https://raw.githubusercontent.com/quant-sentiment-ai/claude-equity-research/main/commands/trading-ideas.md
+curl -o ~/.claude/commands/trading-ideas.md https://raw.githubusercontent.com/Chee-0806/claude-equity-research/main/commands/trading-ideas.md
 
 # Start fresh session
 exit  # Exit current Claude Code session
@@ -172,7 +172,7 @@ claude-code  # Start new session
 ### Manual Update
 ```bash
 # Download latest version
-curl -o ~/.claude/commands/trading-ideas.md https://raw.githubusercontent.com/quant-sentiment-ai/claude-equity-research/main/commands/trading-ideas.md
+curl -o ~/.claude/commands/trading-ideas.md https://raw.githubusercontent.com/Chee-0806/claude-equity-research/main/commands/trading-ideas.md
 
 # Verify update
 head -10 ~/.claude/commands/trading-ideas.md
@@ -226,9 +226,9 @@ done
 ## Support
 
 ### Getting Help
-- 📖 [Documentation](https://github.com/quant-sentiment-ai/claude-equity-research/tree/main/docs)
-- 🐛 [Report Issues](https://github.com/quant-sentiment-ai/claude-equity-research/issues)
-- 💬 [Discussions](https://github.com/quant-sentiment-ai/claude-equity-research/discussions)
+- 📖 [Documentation](https://github.com/Chee-0806/claude-equity-research/tree/main/docs)
+- 🐛 [Report Issues](https://github.com/Chee-0806/claude-equity-research/issues)
+- 💬 [Discussions](https://github.com/Chee-0806/claude-equity-research/discussions)
 
 ### Common Issues
 1. **Permission Denied**: Run `chmod 644 ~/.claude/commands/trading-ideas.md`

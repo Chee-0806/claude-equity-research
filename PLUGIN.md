@@ -28,7 +28,7 @@ The **Claude Equity Research** plugin brings institutional-grade equity analysis
 
 ```bash
 # Step 1: Add the marketplace
-/plugin marketplace add quant-sentiment-ai/claude-equity-research
+/plugin marketplace add Chee-0806/claude-equity-research
 
 # Step 2: Open the plugin menu
 /plugin
@@ -43,7 +43,7 @@ The **Claude Equity Research** plugin brings institutional-grade equity analysis
 
 ```bash
 # Add marketplace and install in one flow
-/plugin marketplace add quant-sentiment-ai/claude-equity-research
+/plugin marketplace add Chee-0806/claude-equity-research
 /plugin install trading-ideas@claude-equity-research-marketplace
 ```
 
@@ -233,7 +233,7 @@ To automatically install this plugin for all team members who trust your reposit
 {
   "extraKnownMarketplaces": [
     {
-      "url": "https://github.com/quant-sentiment-ai/claude-equity-research"
+      "url": "https://github.com/Chee-0806/claude-equity-research"
     }
   ],
   "extraKnownPlugins": [
@@ -396,17 +396,17 @@ The creators, maintainers, and distributors of this plugin assume no liability f
 ## Support & Community
 
 ### Documentation
-- **Main README**: [Repository README](https://github.com/quant-sentiment-ai/claude-equity-research/blob/main/README.md)
-- **Methodology Guide**: [docs/methodology.md](https://github.com/quant-sentiment-ai/claude-equity-research/blob/main/docs/methodology.md)
-- **Customization Guide**: [docs/customization.md](https://github.com/quant-sentiment-ai/claude-equity-research/blob/main/docs/customization.md)
+- **Main README**: [Repository README](https://github.com/Chee-0806/claude-equity-research/blob/main/README.md)
+- **Methodology Guide**: [docs/methodology.md](https://github.com/Chee-0806/claude-equity-research/blob/main/docs/methodology.md)
+- **Customization Guide**: [docs/customization.md](https://github.com/Chee-0806/claude-equity-research/blob/main/docs/customization.md)
 
 ### Get Help
-- **Report Issues**: [GitHub Issues](https://github.com/quant-sentiment-ai/claude-equity-research/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/quant-sentiment-ai/claude-equity-research/discussions)
+- **Report Issues**: [GitHub Issues](https://github.com/Chee-0806/claude-equity-research/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/Chee-0806/claude-equity-research/discussions)
 - **Feature Requests**: Submit via GitHub Issues with "enhancement" label
 
 ### Contributing
-We welcome contributions! See [Contributing Guidelines](https://github.com/quant-sentiment-ai/claude-equity-research/blob/main/CONTRIBUTING.md) for details.
+We welcome contributions! See [Contributing Guidelines](https://github.com/Chee-0806/claude-equity-research/blob/main/CONTRIBUTING.md) for details.
 
 ---
 
@@ -423,8 +423,8 @@ We welcome contributions! See [Contributing Guidelines](https://github.com/quant
 
 ## License
 
-This plugin is licensed under the MIT License. See [LICENSE](https://github.com/quant-sentiment-ai/claude-equity-research/blob/main/LICENSE) for details.
+This plugin is licensed under the MIT License. See [LICENSE](https://github.com/Chee-0806/claude-equity-research/blob/main/LICENSE) for details.
 
 ---
 
-**Built for Claude Code** | [Report Issues](https://github.com/quant-sentiment-ai/claude-equity-research/issues) | [View Source](https://github.com/quant-sentiment-ai/claude-equity-research)
+**Built for Claude Code** | [Report Issues](https://github.com/Chee-0806/claude-equity-research/issues) | [View Source](https://github.com/Chee-0806/claude-equity-research)
