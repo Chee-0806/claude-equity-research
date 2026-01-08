@@ -62,7 +62,7 @@ Professional equity research and trading analysis powered by Claude AI, deliveri
 **Alternative - Direct Install:**
 ```bash
 /plugin marketplace add quant-sentiment-ai/claude-equity-research
-/plugin install claude-equity-research@quant-sentiment-ai
+/plugin install claude-equity-research@claude-equity-research
 ```
 
 **Verify Installation:**
